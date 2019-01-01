@@ -19,9 +19,13 @@ pas= "PASSWORD"
 python sabaideepimai.py 
 
 ************** Remark.
+
 #####Becafull of spaming action and baning from facebook you can use time.sleep(5) to delay action.
+
 import time
 time.sleep(5) 
+
 ##########and random delay to make random post 
+
 from random import randint
 print(randint(1, 20))
